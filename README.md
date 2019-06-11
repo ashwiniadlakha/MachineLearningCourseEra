@@ -1,2 +1,2 @@
 # MachineLearningCourseEra
-Course Era machine learning exercises. All weeks
+Course Era machine learning exercises. week1
